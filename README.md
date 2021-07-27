@@ -1,5 +1,5 @@
-#Hello, I'm Jenny 
+# Hello, I'm Jenny 
 
-###Welcome to my GitHub.
+### Welcome to my GitHub.
 
 
