@@ -11,10 +11,9 @@ in Customer Service. I am currently based in San Francisco, California.
 * Django
 * Bootstrap
 * CSS
+* Node.js
 
 ### -What I'm currently learning:
-* Javascript
-* Node.js
 * React
 * React Native
 
